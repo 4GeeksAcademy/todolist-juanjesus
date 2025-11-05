@@ -1,7 +1,4 @@
 
-/* Mapeo de estilos originales (flip-card) a las clases usadas en Home.jsx */
-
-/* contenedor principal */
 .container {
   max-width: 720px;
   margin: 2rem auto;
@@ -103,6 +100,6 @@
 }
 
 .trash-btn {
-  margin-left: auto; /* empuja el icono al extremo derecho */
+  margin-left: auto; 
   cursor: pointer;
 }
