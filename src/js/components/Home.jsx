@@ -1,8 +1,7 @@
-// ...existing code...
 import React, { useState } from "react";
 import "../../styles/index.css";
 
-//create your first component
+
 const Home = () => {
 
     const [inputValue, setInputValue] = useState("")
